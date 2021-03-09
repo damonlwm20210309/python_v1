@@ -9,5 +9,6 @@ file = "test.txt"
 @app.task
 def add(a, b):
     c = a+ b
+    print(c)
     with open(file, 'w') as f:
         f.write(c)
