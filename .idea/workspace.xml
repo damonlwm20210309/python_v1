@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a5a15a2-1fb9-421d-aa68-131c6b741499" name="Default Changelist" comment="" />
+    <list default="true" id="5a5a15a2-1fb9-421d-aa68-131c6b741499" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,6 +155,8 @@
       <workItem from="1615169603670" duration="9092000" />
       <workItem from="1615252762575" duration="7483000" />
       <workItem from="1615274105974" duration="4273000" />
+      <workItem from="1615286277190" duration="132000" />
+      <workItem from="1615339628095" duration="1076000" />
     </task>
     <servers />
   </component>
@@ -157,10 +164,15 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2026" y="166" key="#Deployment" timestamp="1615278709332">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="106" y="160" key="#Deployment" timestamp="1615286374739">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="106" y="160" key="#Deployment/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1615286374739" />
     <state x="2026" y="166" key="#Deployment/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1615278709332" />
+    <state x="552" y="179" key="#Options" timestamp="1615286384753">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Options/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1615286384753" />
     <state x="118" y="123" width="1639" height="840" key="DiffContextDialog" timestamp="1615197325314">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -189,10 +201,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1615274129064" />
-    <state x="640" y="351" key="com.intellij.ide.util.TipDialog" timestamp="1615252776839">
+    <state x="640" y="351" key="com.intellij.ide.util.TipDialog" timestamp="1615339644255">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="640" y="351" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1615252776839" />
+    <state x="640" y="351" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1615339644255" />
     <state x="2560" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1614322197211" />
     <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615262136295">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -202,6 +214,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="636" y="253" width="647" height="534" key="find.popup/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1615191350398" />
+    <state x="392" y="232" key="ftp.server.browser" timestamp="1615286328972">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="392" y="232" key="ftp.server.browser/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1615286328972" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1614745177160">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
